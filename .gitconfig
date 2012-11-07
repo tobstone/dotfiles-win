@@ -1,3 +1,5 @@
 [user]
 	name = Tobias Steinhoff
 	email = t.steinhoff@ak-neuss.de
+[http]
+	proxy = http://steit:pass@192.168.49.41:8080
