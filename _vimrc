@@ -7,6 +7,7 @@ set gfn=Consolas:h11
 set autoindent
 set smartindent
 set ruler
+set hlsearch
 set scrollbind
 syntax enable
 set nu
