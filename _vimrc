@@ -1,4 +1,5 @@
 call pathogen#infect()
+call pathogen#helptags()
 set backupcopy=yes
 set backup
 set backupdir=~/vimbackup//,. 
@@ -13,7 +14,7 @@ set incsearch
 set wildmenu
 set esckeys
 set backspace=indent,eol,start
-set cursorline
+"set cursorline
 set mouse=a
 set nostartofline
 set scrollbind
