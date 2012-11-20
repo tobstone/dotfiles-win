@@ -4,7 +4,7 @@ set backupcopy=yes
 set backup
 set backupdir=~/vimbackup//,. 
 set directory=~/vimbackup//,. 
-set gfn=Consolas:h11
+set gfn=Consolas:h10
 set autoindent
 set smartindent
 set ruler
