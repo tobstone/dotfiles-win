@@ -20,7 +20,7 @@ set nostartofline
 set scrollbind
 syntax enable
 set nu
-" set enc=utf-8
+set enc=utf-8
 filetype plugin indent on
 let mapleader = ","
 set go+=a
