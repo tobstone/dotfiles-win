@@ -39,4 +39,4 @@
 	url = https://github.com/davidoc/taskpaper.vim.git
 [submodule "vimfiles/bundle/emmet-vim"]
 	path = vimfiles/bundle/emmet-vim
-	url = https://github.com/mattn/emmet-vim.git
+url=git@github.com:mattn/emmet-vim.git
