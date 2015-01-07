@@ -1,5 +1,18 @@
 call pathogen#infect()
 call pathogen#helptags()
+if has("gui_running")
+  " GUI is running or is about to start.
+  " Maximize gvim window.
+  set lines=150 columns=200
+else
+  " This is console Vim.
+  if exists("+lines")
+    set lines=50
+  endif
+  if exists("+columns")
+    set columns=100
+  endif
+endif
 set backupcopy=yes
 set backup
 set backupdir=~/vimbackup//,. 
