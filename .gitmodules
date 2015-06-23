@@ -40,3 +40,6 @@
 [submodule "vimfiles/bundle/emmet-vim"]
 	path = vimfiles/bundle/emmet-vim
 url=git@github.com:mattn/emmet-vim.git
+[submodule "vimfiles/bundle/salt-vim"]
+	path = vimfiles/bundle/salt-vim
+	url = https://github.com/saltstack/salt-vim.git
