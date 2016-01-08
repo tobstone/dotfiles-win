@@ -1,45 +1,39 @@
-[submodule "vimfiles/bundle/snipmate.vim"]
-	path = vimfiles/bundle/snipmate.vim
-	url = git://github.com/msanders/snipmate.vim.git
-[submodule "vimfiles/bundle/nerdtree"]
-	path = vimfiles/bundle/nerdtree
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree.git
-[submodule "vimfiles/bundle/vim-fugitive"]
-	path = vimfiles/bundle/vim-fugitive
+[submodule "vim/bundle/vim-fugitive"]
+	path = vim/bundle/vim-fugitive
 	url = git://github.com/tpope/vim-fugitive.git
-[submodule "vimfiles/bundle/vim-git"]
-	path = vimfiles/bundle/vim-git
+[submodule "vim/bundle/vim-git"]
+	path = vim/bundle/vim-git
 	url = git://github.com/tpope/vim-git.git
-[submodule "vimfiles/bundle/vim-haml"]
-	path = vimfiles/bundle/vim-haml
+[submodule "vim/bundle/vim-haml"]
+	path = vim/bundle/vim-haml
 	url = git://github.com/tpope/vim-haml.git
-[submodule "vimfiles/bundle/vim-markdown"]
-	path = vimfiles/bundle/vim-markdown
+[submodule "vim/bundle/vim-markdown"]
+	path = vim/bundle/vim-markdown
 	url = git://github.com/tpope/vim-markdown.git
-[submodule "vimfiles/bundle/vim-repeat"]
-	path = vimfiles/bundle/vim-repeat
+[submodule "vim/bundle/vim-repeat"]
+	path = vim/bundle/vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
-[submodule "vimfiles/bundle/vim-surround"]
-	path = vimfiles/bundle/vim-surround
+[submodule "vim/bundle/vim-surround"]
+	path = vim/bundle/vim-surround
 	url = git://github.com/tpope/vim-surround.git
-[submodule "vimfiles/bundle/vim-vividchalk"]
-	path = vimfiles/bundle/vim-vividchalk
-	url = git://github.com/tpope/vim-vividchalk.git
-[submodule "vimfiles/bundle/vim-align"]
-	path = vimfiles/bundle/vim-align
+[submodule "vim/bundle/vim-align"]
+	path = vim/bundle/vim-align
 	url = git://github.com/tsaleh/vim-align.git
-[submodule "vimfiles/bundle/vim-supertab"]
-	path = vimfiles/bundle/vim-supertab
+[submodule "vim/bundle/vim-supertab"]
+	path = vim/bundle/vim-supertab
 	url = git://github.com/tsaleh/vim-supertab.git
-[submodule "vimfiles/bundle/tcomment_vim"]
-	path = vimfiles/bundle/tcomment_vim
+[submodule "vim/bundle/tcomment_vim"]
+	path = vim/bundle/tcomment_vim
 	url = https://github.com/tomtom/tcomment_vim.git
-[submodule "vimfiles/bundle/taskpaper.vim"]
-	path = vimfiles/bundle/taskpaper.vim
-	url = https://github.com/davidoc/taskpaper.vim.git
-[submodule "vimfiles/bundle/emmet-vim"]
-	path = vimfiles/bundle/emmet-vim
-url=git@github.com:mattn/emmet-vim.git
-[submodule "vimfiles/bundle/salt-vim"]
-	path = vimfiles/bundle/salt-vim
+[submodule "vim/bundle/emmet-vim"]
+	path = vim/bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "vim/bundle/salt-vim"]
+	path = vim/bundle/salt-vim
 	url = https://github.com/saltstack/salt-vim.git
+[submodule "vim/bundle/Vim-Jinja2-Syntax"]
+	path = vim/bundle/Vim-Jinja2-Syntax
+	url = https://github.com/Glench/Vim-Jinja2-Syntax.git
