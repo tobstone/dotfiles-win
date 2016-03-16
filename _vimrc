@@ -17,7 +17,7 @@ set backupcopy=yes
 set backup
 set backupdir=~/vimbackup//,. 
 set directory=~/vimbackup//,. 
-set gfn=Consolas:h10
+set guifont=Source_Code_Pro:h10:cANSI 
 set autoindent
 set smartindent
 set ruler
@@ -34,7 +34,12 @@ set scrollbind
 syntax enable
 set nu
 set enc=utf-8
+set ffs=unix,dos
+set ff=unix
+set shm=x
 filetype plugin indent on
 let mapleader = ","
 set go+=a
+" Open markdown files with Chrome.
+autocmd BufEnter *.md exe 'noremap <F5> :!start C:\Users\steit\AppData\Local\Google\Chrome\Application\chrome.exe "%:p"'
 
