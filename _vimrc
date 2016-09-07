@@ -42,5 +42,4 @@ let mapleader = ","
 set go+=a
 " Open markdown files with Chrome.
 autocmd BufEnter *.md exe 'noremap <F5> :!start C:\Users\steit\AppData\Local\Google\Chrome\Application\chrome.exe "%:p"'
-let g:indent_guides_enable_on_vim_startup = 1
-let g:indent_guides_exclude_filetypes = ['help', 'nerdtree']
+

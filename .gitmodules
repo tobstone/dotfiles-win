@@ -37,6 +37,6 @@
 [submodule "vimfiles/bundle/Vim-Jinja2-Syntax"]
 	path = vimfiles/bundle/Vim-Jinja2-Syntax
 	url = https://github.com/Glench/Vim-Jinja2-Syntax.git
-[submodule "vimfiles/bundle/vim-indent-guides"]
-	path = vimfiles/bundle/vim-indent-guides
-	url = ../../nathanaelkane/vim-indent-guides.git
+[submodule "vimfiles/bundle/indentLine"]
+	path = vimfiles/bundle/indentLine
+	url = https://tobstone@github.com/Yggdroot/indentLine.git
